@@ -5,6 +5,7 @@
 
 int main()
 {
+	//Basic
     char my_char = 'D';
     int my_int = -15;
     unsigned int my_unsigned_int = 5;
